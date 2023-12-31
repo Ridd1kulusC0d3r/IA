@@ -8,4 +8,7 @@
 - BlackBox
 - Suno AI
 - Canva
+- Gspace
+- Lampyre
+- Dehashed
 - 
